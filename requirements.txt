@@ -1,0 +1,13 @@
+# Python 3.10-3.12 recommended (TensorFlow does not yet support every newer Python)
+numpy
+pandas
+scipy
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+openpyxl          # read .xlsx files
+tensorflow        # Week 5 deep learning
+requests          # Week 6 web scraping
+lxml              # pandas.read_html
+jupyterlab
